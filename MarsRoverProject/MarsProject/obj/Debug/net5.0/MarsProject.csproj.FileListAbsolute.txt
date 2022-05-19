@@ -1,0 +1,15 @@
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\obj\Debug\net5.0\MarsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\obj\Debug\net5.0\MarsProject.AssemblyInfoInputs.cache
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\obj\Debug\net5.0\MarsProject.AssemblyInfo.cs
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\obj\Debug\net5.0\MarsProject.csproj.CoreCompileInputs.cache
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\bin\Debug\net5.0\MarsProject.exe
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\bin\Debug\net5.0\MarsProject.deps.json
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\bin\Debug\net5.0\MarsProject.runtimeconfig.json
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\bin\Debug\net5.0\MarsProject.runtimeconfig.dev.json
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\bin\Debug\net5.0\MarsProject.dll
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\bin\Debug\net5.0\ref\MarsProject.dll
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\bin\Debug\net5.0\MarsProject.pdb
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\obj\Debug\net5.0\MarsProject.dll
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\obj\Debug\net5.0\ref\MarsProject.dll
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\obj\Debug\net5.0\MarsProject.pdb
+C:\Users\RABIA.FARASOGLU\source\repos\MarsProject\MarsProject\obj\Debug\net5.0\MarsProject.genruntimeconfig.cache
